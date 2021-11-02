@@ -1,5 +1,11 @@
 # KecerdasanBuatan
 
-201910370311297 - Renardi Aifandi
+# Deskripsi 
 
-201910370311271 - Faizal Bachtiar
+Indonesia diperkaya dan dipelihara dengan berbagai tanaman. Tanaman ini berguna dalam banyak hal seperti formulasi obat, produksi produk herbal, dan obat-obatan untuk menyembuhkan banyak penyakit. Masyarakat Indonesia umumnya memiliki pengetahuan tradisional dalam pengunaan tumbuh-tumbuhan berkhasiat obat untuk mengobati penyakit tertentu. Pengetahuan tentang tumbuhan obat, mulai dari pengenalan jenis tumbuhan, bagian yang digunakan, cara pengolahan sampai dengan khasiat pengobatannya merupakan kekayaan pengetahuan local dari masing-masing etnis masyarakat setempat.
+Indonesia mempunyai potensi besar untuk mengembangkan budidaya dan produksi tanaman obat. Indonesia adalah negara yang memiliki hutan tropis sebanyak 143 juta hektar yang menjadi rumah bagi 80 persen tanaman obat di dunia. Diperkirakan ada sekitar 25.000 sampai 30.000 tanaman yang berpotensi dijadikan sebagai tanaman obat. Obat-obat herbal memang telah berkembang dengan pesat. Dunia kedokteran modern pun banyak kembali mempelajari obat-obat tradisional. Obat herbal disukai baik di negara berkembang maupun negara maju sebagai alternatif obat sintetik terutama karena tidak menimbulkan efek samping.
+Dataset ini terdiri dari dua spesies tanaman obat sehat yaitu citrus aurantifolia (jeruk nipis) dan Averrhoa bilimbi (belimbing wuluh). Dataset terdiri dari 100 gambar dari dua spesies. Setiap spesies terdiri dari 50 gambar yang memiliki background putih. 
+Daun yang dipetik berasal dari tanaman yang berbeda dari spesies yang sama yang tersedia di kebun setempat. Dipastikan setiap gambarnya tidak boleh dari 1 daun yang sama. Daun yang sehat dan matang dipilih untuk dataset. Instrumen yang digunakan untuk daun belimbing wuluh adalah kamera handphone (model:vivo Y95) dan untuk daun Jeruk nipis adalah kamera handphone (model:vivo Y12). Gambar daun dalam set data diambil secara landscape / dimiringkan.
+Kontribusi dataset daun tanaman obat untuk mengembangkan model Kecerdasan Buatan (pembelajaran mesin dan pembelajaran mendalam) akan membantu banyak peneliti dan ilmuwan komputer untuk mendeteksi, mengidentifikasi spesies dan penyakitnya serta mempelajari lebih lanjut tentang ramuan dan khasiat obat. 
+
+
